@@ -1,9 +1,10 @@
 body {
-    margin: 0;
+    display: block;
+    margin: 0 auto;
+    max-width: 1650px;
   }
   
   img {
     width: 100%;
   }
   
-
