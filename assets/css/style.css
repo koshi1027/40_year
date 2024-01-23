@@ -119,8 +119,7 @@ html {
     border-style:solid ;
     border-color: rgb(0, 0, 0); 
     font-size: 18px;
-    height: 450px;
-    text-align: center;
+    height: auto;
     }
 
   table{
@@ -129,8 +128,8 @@ html {
 }
 
 th{
-  width:25vw;
-  height:75px;
+  width:30vw;
+  height:50px;
 }
 
 td{
